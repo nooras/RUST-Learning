@@ -1,6 +1,6 @@
 # RUST-Learning
 
-fn main() {
+```fn main() {
     println!("Hello, world!");
     let x: i32 = 56;
     another_main(1, 2);
@@ -118,4 +118,4 @@ fn loops(){
     for element in (1..=4).rev { // including 4 as well 1 - 4
         println!("{}", element);
     }
-}
+}```
